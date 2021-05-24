@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxx.demo</string>
+				<string>com.ylpool.demo</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>3.5.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>XXXX App download</string>
+				<string>ylpool App download</string>
 			</dict>
 		</dict>
 	</array>
